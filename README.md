@@ -3,5 +3,5 @@
 
 
 ### 📝 Файлы:
-- **yakor.html** 
+- **frames.html** 
 
